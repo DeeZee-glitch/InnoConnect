@@ -1,0 +1,32 @@
+/* Styles for the popup */
+.popup {
+  position: fixed;
+  top: 20px; /* Distance from the top of the viewport */
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1000; /* Ensures it appears above other elements */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  padding: 10px 20px;
+  background-color: rgba(255, 0, 0, 0.9); /* Semi-transparent red background */
+  color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Styles for the popup content */
+.popup-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Optional styling for the close button */
+.popup-content button {
+  margin-left: 15px;
+  background-color: white;
+  color: red;
+  font-weight: bold;
+}

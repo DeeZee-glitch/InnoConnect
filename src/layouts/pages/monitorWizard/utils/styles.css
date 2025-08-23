@@ -1,0 +1,8 @@
+.stepper-container {
+  position: sticky; /* Keeps the Stepper fixed at the top */
+  top: 0;
+  z-index: 1000;
+  background: white; /* Ensures the Stepper doesn't overlap background content */
+  padding: 10px 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional shadow for better visibility */
+}
