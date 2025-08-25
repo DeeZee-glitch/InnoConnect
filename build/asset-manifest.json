@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56422482.css",
+    "main.js": "/static/js/main.addc5fb2.js",
+    "static/media/team-4.jpg": "/static/media/team-4.0ef0be95e6850814c79e.jpg",
+    "static/media/opsgenie.png": "/static/media/opsgenie.215246d1fd46acb2490b.png",
+    "static/media/slack.png": "/static/media/slack.ffc0b97364b27ebe5891.png",
+    "static/media/logo-ct-sll.png": "/static/media/logo-ct-sll.4f2a91a601b2bad415fa.png",
+    "static/media/Logo.png": "/static/media/Logo.05ec964dda1c7a801074.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.56422482.css",
+    "static/js/main.addc5fb2.js"
+  ]
+}
